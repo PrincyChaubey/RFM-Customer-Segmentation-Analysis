@@ -1,4 +1,5 @@
 # 📊 Online Retail RFM Customer Segmentation & Analysis
+<img width="1187" height="742" alt="RFM Screenshot" src="https://github.com/user-attachments/assets/70e19ad8-7cd5-48f3-aa7a-e734b06f0d2e" />
 
 ## 📌 Project Overview
 
@@ -7,9 +8,6 @@ This project analyzes customer purchasing behavior using **RFM (Recency, Frequen
 The objective is to identify valuable customer segments, understand revenue contribution, measure customer retention, and identify customers who may require targeted re-engagement.
 
 The analysis was performed using **PostgreSQL** for data analysis and **Power BI** for interactive dashboard visualization.
-
-
-<img width="1187" height="742" alt="RFM Screenshot" src="https://github.com/user-attachments/assets/70e19ad8-7cd5-48f3-aa7a-e734b06f0d2e" />
 
 ---
 
