@@ -8,6 +8,9 @@ The objective is to identify valuable customer segments, understand revenue cont
 
 The analysis was performed using **PostgreSQL** for data analysis and **Power BI** for interactive dashboard visualization.
 
+
+<img width="1187" height="742" alt="RFM Screenshot" src="https://github.com/user-attachments/assets/70e19ad8-7cd5-48f3-aa7a-e734b06f0d2e" />
+
 ---
 
 ## 🎯 Business Questions
