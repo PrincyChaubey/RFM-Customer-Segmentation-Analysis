@@ -1,5 +1,4 @@
 # 📊 Online Retail RFM Customer Segmentation & Analysis
-<img width="1187" height="742" alt="RFM Screenshot" src="https://github.com/user-attachments/assets/70e19ad8-7cd5-48f3-aa7a-e734b06f0d2e" />
 
 ## 📌 Project Overview
 
